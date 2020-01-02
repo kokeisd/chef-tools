@@ -1,11 +1,11 @@
 #!/bin/bash
 #
-# getchefnode.sh - This script downloads the list of Chef client nodes into a csv file from the Chef server
+# get-chef-node.sh - This script downloads the list of Chef client nodes into a csv file from the Chef server
 #
 # Prerequisite:
 #   - Local system must have already been bootstrapped to a Chef server.
 #
-# Usage: getchefnode.sh
+# Usage: get-chef-node.sh
 #
 # Arguments:
 #   - null
