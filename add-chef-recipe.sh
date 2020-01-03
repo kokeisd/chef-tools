@@ -1,10 +1,10 @@
 #!/bin/bash
-# addchefrecipe.sh - This script is to add a single recipe to the run_list of a node.
+# add-chef-recipe.sh - This script is to add a single recipe to the run_list of a node.
 # Prerequisite:
 #   - Local system must have already been bootstrapped to a Chef server.
 #   - Chef recipe must be exist on Chef server. 
 #
-# Usage: addrecipe <recipe name>
+# Usage: add-chef-recipe.sh <recipe name>
 #
 # Arguments:
 #   - $1: the name of the recipe to be added to the runlist
